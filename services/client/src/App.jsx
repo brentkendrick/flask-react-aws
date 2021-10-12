@@ -197,7 +197,7 @@ class App extends Component {
                     path="/"
                     render={() => (
                       <div>
-                        <h1 className="title is-1">Users</h1>
+                        <h1 className="title is-1">Here Are The Users!</h1>
                         <hr />
                         <br />
                         {this.isAuthenticated() && (
